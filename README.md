@@ -3,9 +3,14 @@ Project plans, processes, release changes etc.
 
 The best way to get about it is to create greppable list of items like the one below. 
 
-TODO: Write specification
-TODO: Specify review process
-TODO: Create a test process
-TODO: Create a report of the project progress
+
+TODO: Write specification - 4d
+
+TODO: Specify review process - 1d
+
+TODO: Create test process - 8d
+
+TODO: Create report of the project progress -  1d
+
 
 Then you can generate a list with a few commands, remember, the onec you used to punch in to the terminal when you where programming.
